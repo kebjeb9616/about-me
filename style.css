@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+.div-navbar{
+    display: flex;
+    justify-content: right;
+    padding: -100%;
+    background-color: rgb(34, 34, 34);
+    height: 10vh;
+    margin-top: -10px;
+    top: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.button-navbar{
+    margin: 50px;
+    background-color: bisque;
+    height: 5vh;
+    width: 10vw;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    top: 10px;
+    margin-top: -1mm;
+    margin-top: 5mm;
+}
+.a-navbar{
+    color: white;
+    text-decoration: none;
+}
+.button-navbar:hover{
+    background-color: rgb(255, 241, 196);
+    padding: 2px;
+    cursor: pointer;
+}
+.header-navbar{
+    color: white;
+    display: flex;
+    justify-content: center;
+    left: 100px;
+    padding: 1%;
+    font-size: 25px;
+    margin: 10px;
+    right: 100px;
+    height: 5px;
+    margin-right: 165px;
+}
+.div-content1{
+    background-color: rgb(34, 34, 34);
+    margin-right: 60px;
+    margin-left: 30px;
+}
+.div-contentmore1{
+    background-color: rgb(34, 34, 34);
+}
+.div-contact{
+    background-color: rgb(34, 34, 34);
+}
+.img1{
+    width: 15px;
+    height: 15px;
+    color: white;
+}
+.link1{
+    text-decoration: none;
+    color: white;
+    margin-left: 5px;
+}
+h2{
+    color: white;
+}
+.a-navbar{
+    color: black;
+}
+p{
+    color: white;
+}
